@@ -1,0 +1,15 @@
+CREATE TABLE sqlite_sequence(name,seq);
+
+CREATE TABLE pets (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    type TEXT NOT NULL,
+    age INTEGER,
+    owner TEXT
+);
+
+INSERT INTO pets (id, name, type, owner) VALUES
+(1, 'heidi', 'dog', 'david'),
+(2, 'casey', 'dog', 'greg'),
+(3, 'suzy', 'dog', 'greg'),
+(4, 'dorothy', 'dog', 'greg');

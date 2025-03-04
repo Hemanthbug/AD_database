@@ -1,5 +1,6 @@
 import sqlite3
-from kubernetes.client import kind
+
+
 connection = None
 
 

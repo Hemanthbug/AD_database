@@ -1,0 +1,49 @@
+-- SQLite Format 3 Database Dump
+
+-- Table: pet
+CREATE TABLE pet (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    kind_id INTEGER,
+    age INTEGER,
+    owner TEXT
+);
+
+-- Table: kind
+CREATE TABLE kind (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    food TEXT,
+    sound TEXT
+);
+
+-- Table: sqlite_sequence
+CREATE TABLE sqlite_sequence(name,seq);
+
+-- Table: pets (Note: This table is different from "pet")
+CREATE TABLE pets (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    type TEXT NOT NULL,
+    age INTEGER,
+    owner TEXT
+);
+
+-- Data for table: pets
+INSERT INTO pets (id, name, type, owner) VALUES
+(1, 'heidi', 'dog', 'david'),
+(2, 'casey', 'dog', 'greg'),
+(3, 'suzy', 'dog', 'greg'),
+(4, 'dorothy', 'dog', 'greg');
+
+-- Data for table: kind
+INSERT INTO kind (id, name, food, sound) VALUES
+(1, 'cat', 'catfood', 'meow'),
+(2, 'dog', 'dogfood', 'bark');
+
+-- Data for table: pet
+INSERT INTO pet (id, name, kind_id, owner) VALUES
+(1, 'heidi', 2, 'david'),
+(2, 'casey', 2, 'greg'),
+(3, 'suzy', 1, 'greg'),
+(4, 'dorothy', 2, 'greg');
