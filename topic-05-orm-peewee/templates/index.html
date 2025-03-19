@@ -1,0 +1,50 @@
+<html>
+    <head></head>
+    <body>
+        <h3>Pet List:</h3>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Owner</th>
+                <th>Kind</th>
+            </tr>
+            {% for pet in pets %}
+            <tr>
+                <td>{{ pet.id }}</td>
+                <td>{{ pet.name }}</td>
+                <td>{{ pet.age }}</td>
+                <td>{{ pet.owner }}</td>
+                <td>{{ pet.kind.kind_name }}</td>
+                <td><a href="/pet/update/{{ pet.id }}">Update</a></td>
+                <td><a href="/pet/delete/{{ pet.id }}">Delete</a></td>
+            </tr>
+            {% endfor %}
+        </table>
+        <hr/>
+        <a href="/add_pet">Create New Pet</a>
+        <hr/>
+        <h3>Kind List:</h3>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Food</th>
+                <th>Noise</th>
+            </tr>
+            {% for kind in kinds %}
+            <tr>
+                <td>{{ kind.id }}</td>
+                <td>{{ kind.kind_name }}</td>
+                <td>{{ kind.food }}</td>
+                <td>{{ kind.noise }}</td>
+                <td><a href="/kind/update/{{ kind.id }}">Update</a></td>
+                <td><a href="/kind/delete/{{ kind.id }}">Delete</a></td>
+            </tr>
+            {% endfor %}
+        </table>
+        <hr/>
+        <a href="/add_kind">Create New Kind</a>
+    </body>
+</html>
