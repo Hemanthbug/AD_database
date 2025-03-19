@@ -55,5 +55,55 @@ def kind_detail(kind_id):
         return render_template('kind_detail.html', kind=kind, pets=pets)
     return "Kind not found", 404
 
+@app.route('/pet/update/<int:pet_id>', methods=['GET', 'POST'])
+def update_pet(pet_id):
+    pet = Pet.get_or_none(Pet.id == pet_id)
+    if not pet:
+        return "Pet not found", 404
+
+    if request.method == 'POST':
+        pet.name = request.form['name']
+        pet.age = int(request.form['age'])
+        pet.owner = request.form['owner']
+        kind_id = int(request.form['kind_id'])
+
+        kind = Kind.get_or_none(Kind.id == kind_id)
+        if kind:
+            pet.kind = kind
+            pet.save()
+            return redirect(url_for('index'))
+
+    kinds = Kind.select()
+    return render_template('update_pet.html', pet=pet, kinds=kinds)
+
+@app.route('/pet/delete/<int:pet_id>')
+def delete_pet(pet_id):
+    pet = Pet.get_or_none(Pet.id == pet_id)
+    if pet:
+        pet.delete_instance()
+    return redirect(url_for('index'))
+
+@app.route('/kind/update/<int:kind_id>', methods=['GET', 'POST'])
+def update_kind(kind_id):
+    kind = Kind.get_or_none(Kind.id == kind_id)
+    if not kind:
+        return "Kind not found", 404
+
+    if request.method == 'POST':
+        kind.kind_name = request.form['kind_name']
+        kind.food = request.form['food']
+        kind.noise = request.form['noise']
+        kind.save()
+        return redirect(url_for('index'))
+
+    return render_template('update_kind.html', kind=kind)
+
+@app.route('/kind/delete/<int:kind_id>')
+def delete_kind(kind_id):
+    kind = Kind.get_or_none(Kind.id == kind_id)
+    if kind:
+        kind.delete_instance()
+    return redirect(url_for('index'))
+
 if __name__ == '__main__':
     app.run(debug=True)

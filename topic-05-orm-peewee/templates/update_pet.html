@@ -2,8 +2,8 @@
     <head></head>
     <body>
         <h1>Update Pet</h1>
+        <hr/>
         <form action="/pet/update/{{ pet.id }}" method="post">
-            <hr/>
             <p>Animal Name: <input name="name" value="{{ pet.name }}" required /></p>
             <p>Age: <input name="age" value="{{ pet.age }}" type="number" required /></p>
             <p>Owner: <input name="owner" value="{{ pet.owner }}" required /></p>

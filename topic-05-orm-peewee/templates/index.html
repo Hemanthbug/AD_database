@@ -9,6 +9,7 @@
                 <th>Age</th>
                 <th>Owner</th>
                 <th>Kind</th>
+                <th>Actions</th>
             </tr>
             {% for pet in pets %}
             <tr>
@@ -17,8 +18,10 @@
                 <td>{{ pet.age }}</td>
                 <td>{{ pet.owner }}</td>
                 <td>{{ pet.kind.kind_name }}</td>
-                <td><a href="/pet/update/{{ pet.id }}">Update</a></td>
-                <td><a href="/pet/delete/{{ pet.id }}">Delete</a></td>
+                <td>
+                    <a href="/pet/update/{{ pet.id }}">Update</a> | 
+                    <a href="/pet/delete/{{ pet.id }}">Delete</a>
+                </td>
             </tr>
             {% endfor %}
         </table>
@@ -32,6 +35,7 @@
                 <th>Name</th>
                 <th>Food</th>
                 <th>Noise</th>
+                <th>Actions</th>
             </tr>
             {% for kind in kinds %}
             <tr>
@@ -39,8 +43,10 @@
                 <td>{{ kind.kind_name }}</td>
                 <td>{{ kind.food }}</td>
                 <td>{{ kind.noise }}</td>
-                <td><a href="/kind/update/{{ kind.id }}">Update</a></td>
-                <td><a href="/kind/delete/{{ kind.id }}">Delete</a></td>
+                <td>
+                    <a href="/kind/update/{{ kind.id }}">Update</a> | 
+                    <a href="/kind/delete/{{ kind.id }}">Delete</a>
+                </td>
             </tr>
             {% endfor %}
         </table>
