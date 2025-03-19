@@ -18,15 +18,21 @@ def add_pet():
         name = request.form['name']
         age = int(request.form['age'])
         owner = request.form['owner']
-        kind_id = int(request.form['kind_id'])
+        kind_name = request.form['kind_name']  # Get the kind name from the form
 
-        kind = Kind.get_or_none(Kind.id == kind_id)
-        if kind:
-            pet = Pet(name=name, age=age, owner=owner, kind=kind)
-            pet.save()
-            return redirect(url_for('index'))
-    kinds = Kind.select()
-    return render_template('add_pet.html', kinds=kinds)
+        # Check if the kind already exists in the database
+        kind = Kind.get_or_none(Kind.kind_name == kind_name)
+        if not kind:
+            # If the kind doesn't exist, create a new kind
+            kind = Kind(kind_name=kind_name, food="Unknown", noise="Unknown")
+            kind.save()
+
+        # Create the pet
+        pet = Pet(name=name, age=age, owner=owner, kind=kind)
+        pet.save()
+        return redirect(url_for('index'))
+
+    return render_template('add_pet.html')
 
 @app.route('/add_kind', methods=['GET', 'POST'])
 def add_kind():

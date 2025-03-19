@@ -1,22 +1,16 @@
 <html>
     <head></head>
     <body>
-        <h1>Create</h1>
+        <h1>Create New Pet</h1>
         <hr/>
         <form action="/create" method="post">
             <p>Animal Name: <input name="name" required /></p>
             <p>Age: <input name="age" type="number" required /></p>
-            <p>Kind:
-                <select name="kind_id" required>
-                    {% for kind in kinds %}
-                        <option value="{{ kind.id }}">{{ kind.kind_name }}</option>
-                    {% endfor %}
-                </select>
-            </p>
+            <p>Kind: <input name="kind_name" required /></p>
             <p>Owner: <input name="owner" required /></p>
             <hr/>
             <button type="submit">Create</button>
-            <a href="/list">Cancel</a>
+            <a href="/">Cancel</a>
             <hr/>
         </form>
     </body>
