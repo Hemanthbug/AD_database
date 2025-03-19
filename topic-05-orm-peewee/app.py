@@ -105,5 +105,10 @@ def delete_kind(kind_id):
         kind.delete_instance()
     return redirect(url_for('index'))
 
+@app.route('/kind_list')
+def kind_list():
+    kinds = Kind.select()
+    return render_template('kind_list.html', kinds=kinds)
+
 if __name__ == '__main__':
     app.run(debug=True)
