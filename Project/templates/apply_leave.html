@@ -1,0 +1,13 @@
+<h2>Leave Application</h2>
+<form method="POST">
+  From: <input type="date" name="from_date"><br>
+  To: <input type="date" name="to_date"><br>
+  Reason: <textarea name="reason"></textarea><br>
+  Employee:
+  <select name="employee_id">
+    {% for emp in employees %}
+      <option value="{{ emp.id }}">{{ emp.name }}</option>
+    {% endfor %}
+  </select><br>
+  <input type="submit" value="Submit Leave Request">
+</form>

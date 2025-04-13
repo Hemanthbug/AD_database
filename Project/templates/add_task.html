@@ -1,0 +1,10 @@
+<form method="POST">
+    Name: <input name="name" value="{{ employee.name if employee else '' }}"><br>
+    Department: <input name="department" value="{{ employee.department if employee else '' }}"><br>
+    Role: <input name="role" value="{{ employee.role if employee else '' }}"><br>
+    Email: <input name="email" value="{{ employee.email if employee else '' }}"><br>
+    Phone: <input name="phone" value="{{ employee.phone if employee else '' }}"><br>
+    Address: <input name="address" value="{{ employee.address if employee else '' }}"><br>
+    <input type="submit" value="Save">
+  </form>
+  

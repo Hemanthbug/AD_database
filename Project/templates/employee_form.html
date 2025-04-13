@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ 'Edit' if employee else 'Add' }} Employee</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container mt-5">
+    <h2>{{ 'Edit' if employee else 'Add' }} Employee</h2>
+    <form method="POST">
+        <div class="row">
+            <div class="mb-3 col-md-6">
+                <label>Name</label>
+                <input type="text" class="form-control" name="name" value="{{ employee.name if employee else '' }}" required>
+            </div>
+            <div class="mb-3 col-md-6">
+                <label>Department</label>
+                <input type="text" class="form-control" name="department" value="{{ employee.department if employee else '' }}" required>
+            </div>
+            <div class="mb-3 col-md-6">
+                <label>Role</label>
+                <input type="text" class="form-control" name="role" value="{{ employee.role if employee else '' }}" required>
+            </div>
+            <div class="mb-3 col-md-6">
+                <label>Email</label>
+                <input type="email" class="form-control" name="email" value="{{ employee.email if employee else '' }}" required>
+            </div>
+            <div class="mb-3 col-md-6">
+                <label>Phone</label>
+                <input type="text" class="form-control" name="phone" value="{{ employee.phone if employee else '' }}" required>
+            </div>
+            <div class="mb-3 col-md-6">
+                <label>Address</label>
+                <textarea class="form-control" name="address">{{ employee.address if employee else '' }}</textarea>
+            </div>
+            <div class="mb-3 col-md-4">
+                <label>Salary</label>
+                <input type="number" step="0.01" class="form-control" name="salary" value="{{ employee.salary if employee else '' }}">
+            </div>
+            <div class="mb-3 col-md-4">
+                <label>Bonus</label>
+                <input type="number" step="0.01" class="form-control" name="bonus" value="{{ employee.bonus if employee else '' }}">
+            </div>
+            <div class="mb-3 col-md-4">
+                <label>Performance Rating (1-5)</label>
+                <input type="number" min="1" max="5" class="form-control" name="performance_rating" value="{{ employee.performance_rating if employee else '' }}">
+            </div>
+            <div class="mb-3 col-md-4">
+                <label>Working Days</label>
+                <input type="number" class="form-control" name="number_of_working_days" value="{{ employee.number_of_working_days if employee else '' }}">
+            </div>
+            <div class="mb-3 col-md-4">
+                <label>Project ID</label>
+                <input type="number" class="form-control" name="current_project_id" value="{{ employee.current_project_id if employee else '' }}">
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">{{ 'Update' if employee else 'Add' }}</button>
+        <a href="/employees" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<h2>Leave Requests</h2>
+<a href="/leave/apply">Apply for Leave</a>
+<ul>
+{% for req in requests %}
+  <li>{{ req.name }} | {{ req.from_date }} to {{ req.to_date }} | {{ req.status }}</li>
+{% endfor %}
+</ul>

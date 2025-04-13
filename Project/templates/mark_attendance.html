@@ -1,0 +1,16 @@
+<h2>Mark Attendance</h2>
+<form method="POST">
+  Date: <input type="date" name="date" value="{{ date.today() }}"><br>
+  Employee:
+  <select name="employee_id">
+    {% for emp in employees %}
+      <option value="{{ emp.id }}">{{ emp.name }}</option>
+    {% endfor %}
+  </select><br>
+  Status:
+  <select name="status">
+    <option value="Present">Present</option>
+    <option value="Absent">Absent</option>
+  </select><br>
+  <input type="submit" value="Mark Attendance">
+</form>

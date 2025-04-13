@@ -1,0 +1,221 @@
+id,name,department,role,email,phone,address,salary,bonus,performance_rating,number_of_working_days,project_name,project_status
+2,Elizabeth Horton,Finance,Intern,meganmartinez@example.org,+1-489-521-2193x921,"89847 Castillo Camp, Smithton, AK 15821",88863.78,9699.72,3,103,Synergize Out-Of-The-Box Portals,Delayed
+3,Angel Anderson,Finance,Intern,jmora@example.org,867-282-7755,"818 Cody Mall, Parrishville, MN 78374",92721.71,2292.54,4,159,Streamline Next-Generation Content,Ongoing
+4,Keith Hess,Marketing,Intern,johnsonmelissa@example.com,3733046297,"1593 Ball Forges Suite 354, New Prestonchester, MI 21947",75862.95,2254.96,1,235,Re-Intermediate Transparent Markets,Ongoing
+5,James Olson,Finance,Manager,jill71@example.org,770-937-4370,"487 Cummings Burg, Duncanborough, AZ 27906",112922.97,5215.09,3,191,Synergize Integrated Portals,Ongoing
+6,Bruce Bennett,IT,Analyst,davidsonarthur@example.com,665-812-6287x1981,"70190 Long Expressway Suite 159, Jonesstad, MT 30868",94982.23,4286.55,3,225,Expedite E-Business Roi,Completed
+7,Matthew Cruz,Finance,Analyst,michellemartinez@example.com,7803481026,"73269 Marks Ports Apt. 133, East Tony, NV 96380",43312.48,2480.8,4,166,Synergize Out-Of-The-Box Portals,Delayed
+8,Stephanie Soto,Finance,Intern,ldickson@example.net,(954)643-4399,"3752 Travis Point, Port Ashleytown, OK 05735",64731.21,1328.43,2,135,Streamline Next-Generation Content,Ongoing
+9,Harold Hobbs,IT,Developer,bobby70@example.net,+1-951-439-4863x314,"5040 White Village, Christopherport, MA 84679",84835.12,8613.81,2,212,Expedite E-Business Roi,Completed
+10,Teresa Morgan,Marketing,Developer,terri81@example.net,606-374-9691x0054,"2510 Susan Expressway, Melissaville, NC 77994",74271.34,5019.73,5,142,Synergize Out-Of-The-Box Portals,Delayed
+11,Yvette Torres,Marketing,Developer,irogers@example.org,4352870286,"97759 Ann Harbors Suite 204, East Michaelton, MT 78078",107123.42,5001.05,3,204,Expedite E-Business Roi,Completed
+12,Janet Lopez,Finance,Intern,marynguyen@example.org,(577)565-4451,"7814 Arnold Oval, Lake Gregorymouth, NM 39415",85423.06,7037.25,5,181,Synergize Integrated Portals,Ongoing
+13,Seth Simmons,Marketing,Analyst,ricardobarnett@example.net,(255)590-4788x6043,"728 Debra Ports Suite 795, Jamieton, NM 64117",92469.97,9227.25,1,135,Synergize Integrated Portals,Ongoing
+14,Charles Rodriguez,Finance,Intern,johnathanmoore@example.com,994-227-2757x9022,"008 Michael Brook Apt. 386, Lake Kimberlyfurt, NC 25163",61797.12,9696.36,4,110,Expedite E-Business Roi,Completed
+15,Lynn Lester,Finance,Analyst,veronica76@example.org,710.820.9287x9555,"588 Christopher Vista, Timothyville, NY 71951",69192.64,5309.83,3,250,Synergize Integrated Portals,Ongoing
+16,Ronald Alvarado,HR,Analyst,chadtownsend@example.net,(308)821-7796x845,"412 Nicole Fall, South Douglas, RI 21829",43044.11,3241.78,4,179,Streamline Next-Generation Content,Ongoing
+17,George Edwards,HR,Analyst,hughescathy@example.org,001-975-700-3611x499,"99682 Adams Roads Apt. 725, West Ryanbury, OH 86773",118923.31,1930.87,2,196,Streamline Next-Generation Content,Ongoing
+18,Alexandra Lee,Marketing,Manager,victor68@example.org,9426293680,"72012 Valdez Rue, Smithburgh, NC 47833",106418.06,7413.28,1,155,Re-Intermediate Transparent Markets,Ongoing
+19,Nicole Roth,HR,Developer,wendy15@example.com,814.501.1121,"290 Casey Prairie Apt. 088, Shanefurt, KY 34412",82634.17,6921.2,5,126,Synergize Integrated Portals,Ongoing
+20,James Marshall,Finance,Developer,shawlisa@example.org,(567)682-9231x969,"6687 Kevin Landing Suite 452, Andrewtown, IA 10959",62592.07,1733.98,3,200,Expedite E-Business Roi,Completed
+21,Hemanth,3,Manger,hmahe@gmail.com,9394567888,1668 sass,500000.0,2000.0,4,30,Synergize Integrated Portals,Ongoing
+22,Brenda Thomas,Finance,Intern,oyoung@example.com,681-655-1991,"2390 Parsons Estates Apt. 328, Lake Gail, IN 70323",64213.94,3316.01,2,215,Mesh Robust Vortals,Delayed
+23,Alvin Davis,HR,Analyst,schmidtchristopher@example.net,9092148008,"4819 Miller Roads Apt. 368, Amandafurt, MN 50478",93923.62,5446.61,4,218,Synergize Out-Of-The-Box Portals,Delayed
+24,Valerie Carr,Finance,Developer,andreascott@example.net,001-995-852-0252x54131,"6465 Moore Forge Suite 896, Burtonhaven, NC 47120",41514.73,5820.05,2,174,Synergize Out-Of-The-Box Portals,Delayed
+25,James Chen,Finance,Intern,tiffanywilliams@example.com,(326)273-8923,"0139 Clarke Cliffs Apt. 800, North Kellyborough, MI 90360",119743.73,2409.32,5,244,Deploy Web-Enabled Methodologies,Delayed
+26,Melanie Newman,Finance,Intern,chapmanmary@example.org,001-476-563-2723x0686,"23992 Garner Track, East Christinetown, CT 80762",46825.97,2628.43,4,228,Envisioneer World-Class Architectures,Delayed
+27,Jeffrey Williamson,Finance,Intern,smills@example.net,265-396-7864x1086,"3821 Case Mews, Samuelside, AK 63883",87894.71,6215.5,3,106,Benchmark Virtual Architectures,Completed
+28,Sara Rosario MD,Finance,Developer,dawn44@example.org,(783)249-3416x91540,"13719 Nicholas Valleys, North Brandon, CO 95289",70902.43,8421.63,4,211,Re-Intermediate Transparent Markets,Ongoing
+29,Julie Smith,Finance,Intern,jasongreen@example.com,+1-606-262-8268x26832,"40240 Fischer Station Suite 307, Allenburgh, MH 31574",115024.54,1818.52,2,206,Synergize Integrated Portals,Ongoing
+30,Amber Nunez,HR,Developer,xcrawford@example.org,(700)203-3985x75740,"024 Nguyen Harbors Apt. 741, Melissahaven, RI 37592",55770.44,3011.89,2,189,Synergize Integrated Portals,Ongoing
+31,Leslie Simon,Finance,Developer,millerkevin@example.com,907.317.3049,"PSC 4103, Box 3716, APO AE 20729",65808.75,5425.48,1,133,Synergize Out-Of-The-Box Portals,Delayed
+32,Courtney Harper,Finance,Manager,rmueller@example.net,830.236.7544x488,"2480 Costa Vista Suite 531, East Chelseaville, NY 76378",97834.18,2031.87,5,202,Mesh Robust Vortals,Delayed
+33,Charles Scott,HR,Developer,johnwaller@example.net,513-968-3894x04232,"168 Martinez Islands, Laurabury, VA 77904",118200.79,5057.12,2,109,Deploy Web-Enabled Methodologies,Delayed
+34,Peter Williams,Marketing,Analyst,jnash@example.com,547.766.9271,"52079 Johnson Neck Suite 373, East Catherine, KY 28390",81320.65,2426.53,4,180,Re-Intermediate Transparent Markets,Ongoing
+35,Patricia Mills,Finance,Manager,umaldonado@example.org,(699)731-6671,"98408 Daryl Corner Apt. 371, Sawyerland, TX 33219",64522.24,9611.69,2,245,Benchmark Virtual Architectures,Completed
+36,Scott King,IT,Developer,chad53@example.org,324-441-0121,"PSC 4085, Box 4771, APO AP 00797",47899.74,3331.88,3,124,Re-Intermediate Transparent Markets,Ongoing
+37,Brad Knox,Finance,Analyst,tina29@example.net,(851)550-6451,"660 Jones Garden, Hansonburgh, AR 31497",64582.55,1620.01,4,231,Streamline Next-Generation Content,Ongoing
+38,Corey Swanson,IT,Manager,duane42@example.com,001-953-909-2530x29230,"194 Morrison Stream, Randyville, AS 43880",43749.1,8509.47,1,188,Benchmark Virtual Architectures,Completed
+39,Jessica Stout,HR,Analyst,christopher56@example.net,740-694-3217x39849,"724 Amanda Union Apt. 392, Lake Peterburgh, HI 32397",41858.25,2183.58,4,196,Mesh Robust Vortals,Delayed
+40,Jeffrey Alvarez,HR,Developer,ndavid@example.net,501-830-0044x38727,"1221 Allison Lights, South Jennifermouth, IL 07009",55609.56,8244.12,4,112,Deploy Web-Enabled Methodologies,Delayed
+41,Debbie Morrow,Finance,Intern,steven11@example.org,435.333.4088x15704,"67835 Evans Fields, Timothymouth, GA 41112",90404.42,2317.22,5,187,Benchmark Virtual Architectures,Completed
+42,Kelly Hanna,Finance,Intern,dixonkristen@example.org,001-261-943-1691x06895,"482 Williams Road Apt. 507, Lake Willietown, ID 16817",114434.9,1356.41,5,129,Scale Clicks-And-Mortar Technologies,Delayed
+43,Christopher Parker,HR,Analyst,iperez@example.org,+1-245-605-3844,"USS Young, FPO AP 63640",69942.19,3755.9,4,189,Synergize Integrated Portals,Ongoing
+44,Jessica Marshall,HR,Analyst,armstrongsean@example.org,925.401.0198,"USNV Gomez, FPO AA 95473",59858.38,7269.13,4,250,Synergize Out-Of-The-Box Portals,Delayed
+45,Monica Marquez,Marketing,Intern,landerson@example.net,628-793-1474x58711,"140 Jeffrey Point, Georgemouth, AK 88684",70350.83,8958.94,1,113,Mesh Robust Vortals,Delayed
+46,Jerry Parker,Marketing,Analyst,ejohnson@example.net,(772)589-4157x63689,"29562 Sandra Manors, Nicoleton, MN 54576",79729.64,8909.31,4,236,Synergize Integrated Portals,Ongoing
+47,Melissa Petty,Finance,Intern,guerreropaul@example.com,001-358-532-5933,"720 Rogers Mountain, East Sandraside, NM 42893",114418.39,4593.97,3,224,Synergize Integrated Portals,Ongoing
+48,Elizabeth Hood,HR,Developer,fadkins@example.org,640.286.8226x2568,"7101 Jennifer Common, Calderonberg, AK 09315",100160.94,5622.44,3,139,Re-Intermediate Transparent Markets,Ongoing
+49,Annette Johns,Finance,Developer,connierodriguez@example.net,001-647-967-0081x444,"947 Stephanie Groves Suite 948, Angelaborough, VA 49259",111311.83,1161.03,3,183,Synergize Out-Of-The-Box Portals,Delayed
+50,Christine Jones,Finance,Intern,brightnathan@example.org,268.544.0510x0669,"105 Kenneth Junction, Port Latashahaven, AZ 28963",42051.48,6300.45,5,193,Synergize Out-Of-The-Box Portals,Delayed
+51,Alyssa Anderson,HR,Developer,christopheredwards@example.com,462-936-7635,"95887 Lane Bypass Apt. 972, Thorntonview, MN 93388",46077.93,7822.14,2,217,Synergize Out-Of-The-Box Portals,Delayed
+52,Gabriel Clark,Finance,Manager,aaron00@example.net,001-658-521-5217,"44575 Villegas Shores Apt. 371, Wendychester, DC 04043",99556.64,9659.9,1,180,Mesh Robust Vortals,Delayed
+53,Steven Mcbride,HR,Manager,jasongilbert@example.net,257-505-2550x636,"9032 Patton Highway, Fostershire, RI 48528",95233.96,5591.67,4,214,Envisioneer World-Class Architectures,Delayed
+54,John Newton,Marketing,Developer,bethanydaniel@example.com,+1-424-935-6399,"23905 Erin Court, Hawkinsmouth, PW 60877",69802.36,7975.93,5,247,Envisioneer World-Class Architectures,Delayed
+55,Megan Hart,HR,Developer,collinskatrina@example.net,2786500592,"5648 Mejia Junctions Suite 628, Martinezton, MN 14251",102879.21,6049.03,2,248,Expedite E-Business Roi,Completed
+56,Cynthia Sanchez,Finance,Developer,josephwatts@example.com,001-805-765-4391x958,"USS Boyd, FPO AP 01024",48344.63,7517.51,1,170,Deploy Web-Enabled Methodologies,Delayed
+57,Sara Price,Finance,Intern,mvargas@example.net,421.411.2800,"334 Bradley Greens Suite 065, Cummingsmouth, NH 62695",51248.69,4494.54,1,154,Synergize Out-Of-The-Box Portals,Delayed
+58,Kelly Valencia,Finance,Analyst,prattmichael@example.com,856.804.1322x17317,"PSC 7114, Box 8128, APO AP 61022",78120.15,6668.94,3,135,Re-Intermediate Transparent Markets,Ongoing
+59,Logan Harrison,IT,Developer,turnersteven@example.com,573-767-8388x43586,"0434 Hernandez Pass Suite 451, Boothfort, WV 28139",40465.42,7338.01,1,198,Envisioneer World-Class Architectures,Delayed
+60,Brian Nguyen Jr.,Marketing,Analyst,smallnicole@example.org,7957154516,"6994 Bennett Place Suite 675, Port Sheila, PR 27573",115433.91,1029.25,1,164,Re-Intermediate Transparent Markets,Ongoing
+61,Vincent Jackson,Finance,Analyst,bowentimothy@example.org,(684)844-3024,"4680 Fisher Shore, Port Jessica, MA 39144",96331.71,6851.43,5,229,Envisioneer World-Class Architectures,Delayed
+62,Jon Walters,IT,Manager,richard73@example.org,(300)601-4139,"01642 Barker Mountains, Lake Joe, MH 15943",46886.06,9815.97,5,205,Deploy Web-Enabled Methodologies,Delayed
+63,Brandon Carter,Finance,Developer,mrobinson@example.com,3784132614,"5003 Christopher Circle, Port Melissa, VT 88783",98156.97,6111.46,1,155,Synergize Out-Of-The-Box Portals,Delayed
+64,Mrs. Kendra Osborne,IT,Manager,matthewthompson@example.org,629.937.3118,"398 Day Mountain, Deniseside, IL 21883",66054.32,8785.7,2,249,Envisioneer World-Class Architectures,Delayed
+65,Anna Durham,Finance,Manager,woodlaura@example.com,(721)705-5532x906,"9962 Joseph Branch Apt. 471, New Danamouth, PR 46180",113740.75,2284.84,2,236,Re-Intermediate Transparent Markets,Ongoing
+66,Bobby Castaneda,Marketing,Intern,sabrinazimmerman@example.com,823.892.0013x460,"460 Orr Via Apt. 898, New Tim, LA 76972",112831.2,5471.99,2,200,Envisioneer World-Class Architectures,Delayed
+67,Christopher Moore,IT,Developer,reginald51@example.org,449-338-5676,"345 Gaines Crescent Apt. 304, Melanieland, IL 63892",70655.52,2264.53,3,217,Envisioneer World-Class Architectures,Delayed
+68,Marissa Fisher,IT,Intern,kristendiaz@example.org,+1-635-642-8706x784,"630 Edwards Junction, East Michael, PR 53738",63198.81,4356.32,1,219,Expedite E-Business Roi,Completed
+69,Donna Lee,IT,Analyst,kyle65@example.org,001-965-467-6948x159,"276 Brenda Park Apt. 502, Port Anne, UT 31341",58318.06,5371.89,2,126,Expedite E-Business Roi,Completed
+70,Misty Scott,IT,Manager,lorimills@example.org,(269)903-7722x267,"06096 Jillian Parks, Reyesmouth, CA 77021",81549.64,5213.7,5,179,Mesh Robust Vortals,Delayed
+71,Steven Richardson,HR,Analyst,chad91@example.net,(460)576-6301,"838 Brown Plains Apt. 173, North Michaelburgh, PR 14046",63721.58,3004.92,4,151,Synergize Out-Of-The-Box Portals,Delayed
+72,Charles Miller,HR,Developer,christophergarcia@example.com,+1-553-662-4974x075,"209 Rogers Walks Suite 214, West Katherinemouth, DE 97715",48076.49,2583.7,2,110,Expedite E-Business Roi,Completed
+73,Melissa Jackson,Marketing,Analyst,gonzalesashley@example.net,303-949-7682x3011,"2399 Walters Dam, Brownborough, NE 61271",93627.16,4381.88,2,220,Re-Intermediate Transparent Markets,Ongoing
+74,George Barnes,IT,Developer,ewong@example.net,2843172428,"887 Moore Cape Suite 573, Lake Trevor, CO 97706",41469.89,7329.78,3,187,Scale Clicks-And-Mortar Technologies,Delayed
+75,Tiffany Diaz,Marketing,Intern,heatherlyons@example.com,215-462-1242,"1028 Victoria Ridge, Lake George, KY 20375",66789.63,5250.06,3,179,Re-Intermediate Transparent Markets,Ongoing
+76,Marie Hayes,HR,Analyst,rbuckley@example.org,646.253.0807x35021,"27114 Fred Views, Port Victoria, IN 71011",109422.83,1149.27,3,125,Scale Clicks-And-Mortar Technologies,Delayed
+77,Dr. Erin Kim MD,Finance,Intern,youngadam@example.net,001-268-576-1330x774,"USNV Garner, FPO AE 79970",75286.92,7340.69,2,198,Scale Clicks-And-Mortar Technologies,Delayed
+78,Thomas Francis,Finance,Manager,rmays@example.com,724.202.3764x57129,"10417 Bradley Islands, Maciasburgh, RI 08415",96493.53,9695.29,5,248,Benchmark Virtual Architectures,Completed
+79,Cynthia Morse,HR,Intern,william26@example.net,522-264-8823,"994 Mary Harbor, Port Robertside, OR 55736",57464.06,1237.58,4,238,Scale Clicks-And-Mortar Technologies,Delayed
+80,Brandon Robinson,Finance,Analyst,vbaker@example.com,(597)871-8655x237,"161 Joseph Forge, Jenningstown, IN 83486",81004.84,3830.68,5,163,Scale Clicks-And-Mortar Technologies,Delayed
+81,Elizabeth Taylor,IT,Manager,iklein@example.net,533-428-0194x073,"737 Jackson Fort Apt. 249, Nguyentown, AZ 61382",50084.92,6127.25,5,246,Scale Clicks-And-Mortar Technologies,Delayed
+82,Austin Stokes,Marketing,Analyst,bonillajessica@example.org,794-802-9874,"378 White Hill, East Jason, GA 90846",47237.83,2784.31,3,111,Scale Clicks-And-Mortar Technologies,Delayed
+83,Ronald Davidson,IT,Analyst,denisemurphy@example.net,383-922-7743,"5377 Wilkinson Summit, Kellyfurt, OK 43137",72748.72,3746.05,5,130,Synergize Out-Of-The-Box Portals,Delayed
+84,Dana Sandoval,Marketing,Developer,dillontyler@example.org,2465493732,"1614 Jackson Shoals Suite 718, West Donaldton, AL 00793",43362.03,7280.96,2,211,Expedite E-Business Roi,Completed
+85,Lisa Reyes,HR,Intern,petersontrevor@example.com,919.252.7530,"0252 Julie Greens, Payneberg, CA 70545",52208.17,3396.76,1,132,Streamline Next-Generation Content,Ongoing
+86,Blake Collins,HR,Intern,lopezchelsey@example.org,910.602.8413x7342,"49654 Solis Square Apt. 461, Tateborough, AS 77230",64890.14,5245.58,4,128,Deploy Web-Enabled Methodologies,Delayed
+87,Ross Johnson,HR,Analyst,lydia11@example.org,+1-455-654-8649x9556,"33378 Weber Walks Suite 501, Davidhaven, VI 94131",97322.36,4684.03,3,200,Expedite E-Business Roi,Completed
+88,Kevin Warner,Marketing,Intern,david09@example.org,365.425.3276,"23441 Graham Greens Suite 719, Torresland, CA 42322",61648.33,6034.94,5,236,Re-Intermediate Transparent Markets,Ongoing
+89,Lauren Nelson,Finance,Manager,michael22@example.net,345.750.1279x321,"9608 Grace Locks Apt. 996, South Robert, IA 92880",114111.89,8309.39,2,156,Synergize Integrated Portals,Ongoing
+90,Kristen Smith,IT,Intern,richardlara@example.com,+1-343-883-9305,"472 Robert Gateway Suite 652, New Samantha, IA 53264",83546.54,6593.81,1,111,Re-Intermediate Transparent Markets,Ongoing
+91,William Vincent,HR,Analyst,ssmith@example.net,357-488-4366x4819,"Unit 3830 Box 6810, DPO AA 56754",81754.2,9528.99,3,166,Scale Clicks-And-Mortar Technologies,Delayed
+92,David Wilkins,Marketing,Manager,laurenjohnson@example.net,001-374-435-6797x5785,"9245 Donna Court, Port Adam, IN 49002",83903.8,4618.94,2,212,Scale Clicks-And-Mortar Technologies,Delayed
+93,Jason Ortiz,IT,Developer,hbarker@example.org,475-978-2933,"83568 Vincent Ferry, New Elizabethhaven, NJ 05080",81673.09,4239.77,3,110,Mesh Robust Vortals,Delayed
+94,James Moore,Marketing,Intern,smithelizabeth@example.org,301.942.8625,"3821 Franklin Drive, Laraview, KY 79676",74798.18,3589.24,1,232,Expedite E-Business Roi,Completed
+95,Chelsea Edwards,IT,Analyst,april62@example.com,753.589.6132x499,"6800 Jacobson Ports Apt. 816, Johnsonport, IA 29737",60381.8,8689.92,3,249,Synergize Out-Of-The-Box Portals,Delayed
+96,Lindsay Powell,Finance,Developer,jensencharles@example.com,296.736.5237x848,"42645 Dana Parks, Kiddmouth, ND 83687",42254.55,4582.64,5,152,Synergize Out-Of-The-Box Portals,Delayed
+97,Brandon Cole,HR,Manager,ybrown@example.net,967-547-2168,"9769 Mcbride Valley Apt. 734, West Brenttown, FM 69352",100691.88,2447.95,1,151,Synergize Integrated Portals,Ongoing
+98,Drew Weaver MD,HR,Intern,alejandrawyatt@example.org,259.569.7008x7059,"4928 Sean Fork, New Matthew, IN 29171",54508.82,7241.27,4,163,Streamline Next-Generation Content,Ongoing
+99,Andrew Garrison,IT,Intern,riveradevon@example.com,+1-903-572-9681x9814,"355 Mason Parks, Fowlerside, AZ 99593",67054.45,9877.33,5,149,Benchmark Virtual Architectures,Completed
+100,Benjamin Reynolds,Marketing,Manager,nbrown@example.org,240-440-5357,"886 Ashley Loaf Suite 970, Susanberg, NH 40342",100620.68,2956.9,2,133,Synergize Out-Of-The-Box Portals,Delayed
+101,Lisa Marks,IT,Developer,sjohnson@example.com,(797)478-5753x4507,"25159 Lee Burg, Heatherport, OK 52882",71922.02,4984.98,4,198,Benchmark Virtual Architectures,Completed
+102,Richard Patton,HR,Developer,cuevashoward@example.net,305-580-6310,"3446 Sean Springs Suite 372, Johnsonfurt, TX 63760",90516.76,8302.01,5,196,Mesh Robust Vortals,Delayed
+103,Victor Benson,IT,Intern,qjohnson@example.com,421.846.0700,"498 Harris Avenue Apt. 749, Toddfurt, MA 48647",66557.65,3300.38,3,192,Synergize Integrated Portals,Ongoing
+104,Patricia Watson,IT,Analyst,christywhite@example.net,001-607-685-7063x3686,"9829 Wilson Fort Suite 642, New Autumnstad, GU 01204",87875.76,8513.35,1,175,Benchmark Virtual Architectures,Completed
+105,John Nielsen,IT,Intern,brittney26@example.org,+1-351-287-4351x4502,"85848 Johnson Mission, Gillview, KS 16770",46596.1,4263.93,1,232,Benchmark Virtual Architectures,Completed
+106,Steven Harris,HR,Intern,lkeller@example.org,001-262-790-4571x348,"55485 Herring Bypass, South Rebeccaberg, KY 38893",67401.09,4586.28,2,121,Synergize Out-Of-The-Box Portals,Delayed
+107,Debra Rodriguez,Finance,Manager,tonya12@example.org,523-214-2300x424,"338 Daniel Wall Suite 754, Bowenmouth, NM 53030",105972.86,5242.53,5,198,Scale Clicks-And-Mortar Technologies,Delayed
+108,Bryan Collins,Finance,Developer,zfrancis@example.com,+1-333-937-6939x895,"689 Schroeder Plains Apt. 104, Port Karen, FM 73084",65554.5,6344.59,3,110,Benchmark Virtual Architectures,Completed
+109,Jesse Conrad,Finance,Developer,angela80@example.net,001-345-693-6338x5780,"8807 Peterson Valleys, Banksshire, PR 70659",57507.8,6436.72,3,233,Mesh Robust Vortals,Delayed
+110,Connor Heath,Marketing,Analyst,smithapril@example.net,6383580671,"679 Kendra Village, Johnsonmouth, MS 95623",92954.24,9440.57,3,245,Expedite E-Business Roi,Completed
+111,Rebecca Mendoza,HR,Manager,richardramirez@example.com,+1-348-387-8395x459,"50062 Griffin Viaduct, North Jeffstad, TX 50568",50214.92,9196.54,2,217,Scale Clicks-And-Mortar Technologies,Delayed
+112,Joseph Smith,IT,Manager,bsanford@example.net,(308)241-0337x60416,"22660 Cindy Ford Suite 445, Ramosberg, KY 04997",85004.46,6611.01,2,199,Re-Intermediate Transparent Markets,Ongoing
+113,Kimberly Jones,IT,Intern,respinoza@example.com,001-854-710-5070x9924,"149 Wright Shores, North Michelleview, PA 64173",52331.09,4503.41,2,229,Deploy Web-Enabled Methodologies,Delayed
+114,Stephen Adams,IT,Manager,yvettepowell@example.org,+1-574-979-5288x5429,"12089 Theresa Mountains Apt. 394, Annside, GU 32307",85651.41,3584.25,2,199,Expedite E-Business Roi,Completed
+115,Monica Black,IT,Intern,smithalyssa@example.com,963.276.9230x8645,"Unit 1390 Box 8696, DPO AP 85675",60863.01,8975.47,3,162,Deploy Web-Enabled Methodologies,Delayed
+116,Kevin Norris,HR,Manager,jordan26@example.com,4572841575,"553 Wright Street, Whiteport, GU 85874",83144.33,3156.85,5,189,Streamline Next-Generation Content,Ongoing
+117,Robin Hernandez,IT,Analyst,eblair@example.net,988.875.3059,"387 Lee Key Apt. 853, New Mark, AZ 62709",92427.29,5973.34,3,106,Expedite E-Business Roi,Completed
+118,Sara Whitaker,HR,Developer,cortezjessica@example.net,(543)279-0336x3927,"541 Rush Freeway Apt. 732, North Mary, GU 72014",117786.43,9357.85,1,175,Deploy Web-Enabled Methodologies,Delayed
+119,Sarah Harris,HR,Developer,romantyler@example.net,(969)584-6182,"1445 Jones Station Suite 944, West Maryfurt, IA 13648",97901.82,2067.96,3,144,Benchmark Virtual Architectures,Completed
+120,Stephen Nicholson,Marketing,Developer,becknicholas@example.org,786-594-4183x3649,"042 Felicia Mountains Apt. 114, West Rebecca, ME 41511",103362.62,5059.68,3,211,Synergize Integrated Portals,Ongoing
+121,Curtis Gray,Marketing,Intern,ruthrodriguez@example.com,8796781739,"610 Vicki Square Apt. 851, North Victor, MH 27001",113315.84,2959.63,4,199,Scale Clicks-And-Mortar Technologies,Delayed
+122,Christine Hill,Marketing,Analyst,andersondestiny@example.com,(826)818-0363x654,"9361 Roman Tunnel, North Heather, KS 43556",104883.23,7794.25,2,166,Streamline Next-Generation Content,Ongoing
+123,Ryan Saunders,Marketing,Developer,raymondthomas@example.org,565-928-1738,"978 Rhodes Mount Apt. 487, Butlerhaven, MP 94454",66721.53,2955.04,3,200,Expedite E-Business Roi,Completed
+124,Cassandra Lopez,IT,Analyst,mark41@example.org,565-662-9406x22731,"0853 Destiny Wells, Markhaven, DC 06375",70768.47,3290.47,2,246,Mesh Robust Vortals,Delayed
+125,Angel Stone,Marketing,Intern,rushholly@example.net,4303885872,"47272 Graves Radial, Acostabury, NC 84511",42423.53,4796.81,2,172,Benchmark Virtual Architectures,Completed
+126,Trevor Phillips MD,Finance,Manager,nicole75@example.net,611-691-0697x905,"20477 George Center, South Ericaport, DC 52104",40395.17,2384.59,2,172,Benchmark Virtual Architectures,Completed
+127,William Flores,IT,Intern,matthew75@example.org,4968290839,"Unit 8347 Box 9470, DPO AA 61378",64567.15,1069.31,3,169,Re-Intermediate Transparent Markets,Ongoing
+128,Casey Graham,Finance,Developer,troytaylor@example.net,(208)253-4234,"43537 Margaret Skyway Apt. 603, North Markmouth, IA 80076",53429.86,4900.75,2,125,Envisioneer World-Class Architectures,Delayed
+129,Nathan Brooks,Finance,Manager,swilson@example.net,(297)883-2196,"0965 Gloria Plains Suite 203, Lake Cherylfurt, LA 26559",87587.09,2317.35,5,170,Deploy Web-Enabled Methodologies,Delayed
+130,Thomas Rodriguez,HR,Intern,robertbanks@example.com,234.289.2750x392,"56601 Dustin Wells Apt. 855, Alicialand, WV 48854",113609.34,9398.79,4,170,Deploy Web-Enabled Methodologies,Delayed
+131,Jesse Williams,HR,Manager,kvelez@example.com,(510)569-6283,"67417 Garcia Fall Suite 859, Davidmouth, VI 86869",112859.0,5271.78,1,118,Scale Clicks-And-Mortar Technologies,Delayed
+132,Desiree Wood,Marketing,Intern,rscott@example.org,910-258-9667x3063,"31415 Brown Junctions Suite 408, Joshuaport, NY 80162",119603.18,7152.38,1,222,Synergize Out-Of-The-Box Portals,Delayed
+133,Linda Mcgrath,Marketing,Developer,andersonmichael@example.net,632-890-0026x60922,"5119 Kathryn Path Suite 251, Hendersonshire, MP 82160",91479.68,8196.53,1,134,Mesh Robust Vortals,Delayed
+134,Sara Cole,Finance,Developer,ryanhoward@example.com,908-808-6452x04785,"79860 Ashley Alley, Joshuaside, AL 70080",118451.85,7065.38,5,142,Re-Intermediate Transparent Markets,Ongoing
+135,Keith Farmer,IT,Developer,holly42@example.com,+1-934-536-9786,"195 Mitchell Circles, South Michael, TN 80493",88937.89,7267.57,1,117,Expedite E-Business Roi,Completed
+136,Roger Golden,IT,Manager,andrewjohnson@example.org,(724)995-1102,"65833 Scott Fall Suite 661, New Stephanie, NM 31867",117361.27,8069.33,3,108,Re-Intermediate Transparent Markets,Ongoing
+137,Marcus Carr,Finance,Developer,william42@example.org,466.256.2098,"20951 Banks View Suite 925, South Nicoleborough, HI 95355",86108.46,8928.84,2,239,Envisioneer World-Class Architectures,Delayed
+138,Lisa Hall,Marketing,Intern,shodge@example.com,394.210.4082x167,"2436 Jacqueline Extensions Suite 286, Skinnerview, VA 17560",118004.42,6572.25,1,246,Streamline Next-Generation Content,Ongoing
+139,Jennifer Rios,IT,Manager,tracyscott@example.org,001-957-602-4519x580,"455 Adam Junction, Mckaystad, CT 53308",101519.89,8274.81,5,101,Mesh Robust Vortals,Delayed
+140,Pamela Owens,HR,Developer,morrisonrobert@example.org,558.760.2941x8000,"9684 Rhonda Land, Francesshire, AS 55959",70220.36,2596.65,3,240,Synergize Out-Of-The-Box Portals,Delayed
+141,Kristin Farley,Marketing,Developer,ycordova@example.org,324.782.7948x35209,"26256 Jesse Court Suite 389, Courtneyville, SD 01039",78975.72,6723.76,2,124,Envisioneer World-Class Architectures,Delayed
+142,Mason Allen,Finance,Developer,denise34@example.com,001-959-701-4791x162,"USNV Smith, FPO AA 68207",44932.01,8013.75,4,103,Re-Intermediate Transparent Markets,Ongoing
+143,Donna Hamilton,Finance,Intern,wsherman@example.com,001-953-414-9630,"65246 Hoffman Estate, South Jodi, CO 56063",85909.4,9961.85,1,205,Expedite E-Business Roi,Completed
+144,Elizabeth Robinson,Finance,Manager,williamsdavid@example.org,+1-525-453-1041x6417,"Unit 9235 Box 2206, DPO AP 53225",68800.54,8845.62,1,232,Re-Intermediate Transparent Markets,Ongoing
+145,Dr. Bryan Nguyen,HR,Intern,leesmith@example.org,325.557.4622,"38432 Pena Ports, Nicholasport, MI 12486",57169.42,7827.88,1,248,Synergize Integrated Portals,Ongoing
+146,Tamara Griffin,HR,Intern,steinmegan@example.com,001-344-910-4330x48240,"69649 Brown Forks, South Kimberly, MP 27513",49207.71,3807.96,1,222,Expedite E-Business Roi,Completed
+147,Angela Alexander,Marketing,Analyst,fgarcia@example.net,358-602-2760x595,"3333 Catherine Summit Suite 271, West Kimberlyburgh, WV 74112",100000.77,3392.34,4,213,Benchmark Virtual Architectures,Completed
+148,Jenna Russell,Marketing,Intern,brownnathan@example.org,946-818-3405,"59124 Allen Ferry, Port Kelly, MI 89494",112623.96,6210.69,5,178,Benchmark Virtual Architectures,Completed
+149,Paula Hunter,HR,Developer,williamsstephanie@example.net,001-371-710-4172x60788,"82720 Jessica Parks, West Danielport, GA 11168",81404.01,4963.97,2,234,Scale Clicks-And-Mortar Technologies,Delayed
+150,Tiffany Jones,Finance,Analyst,qbrown@example.com,771-931-2290,"55886 Turner Corner Apt. 899, Maldonadofort, GA 84352",101795.83,1985.72,3,138,Synergize Out-Of-The-Box Portals,Delayed
+151,Cynthia Stevens,HR,Developer,samantha35@example.net,(575)858-4451,"638 Christopher Roads, West Melissa, CO 69819",103379.31,4370.99,3,188,Synergize Out-Of-The-Box Portals,Delayed
+152,Benjamin Orozco,Marketing,Analyst,wrios@example.net,001-249-674-5792x4255,"56027 Henry Ranch Apt. 164, South Jose, CA 89684",48184.48,6788.88,2,221,Envisioneer World-Class Architectures,Delayed
+153,Amanda Scott,Finance,Manager,slucas@example.org,443.399.2060,"82196 Wyatt Creek Suite 819, Lake Kimberly, MH 22699",50306.46,9865.74,5,170,Mesh Robust Vortals,Delayed
+154,Micheal Macdonald,Marketing,Manager,joshuahawkins@example.com,(407)296-0005,"89105 Alison Square, Port Justinfort, GA 90846",103787.29,7782.33,5,183,Expedite E-Business Roi,Completed
+155,Marc Weber,IT,Developer,osmith@example.net,(343)374-9140,"PSC 8003, Box 5421, APO AP 41922",119445.86,2871.28,2,210,Benchmark Virtual Architectures,Completed
+156,Lacey Lee,HR,Analyst,kelly19@example.net,001-676-843-2429,"23151 Bond Walk, Ellisville, WA 66312",80449.23,9139.05,5,169,Deploy Web-Enabled Methodologies,Delayed
+157,Brenda Nelson,Marketing,Analyst,stephanierivera@example.net,4515254177,"0861 Wright Rapids, South Lisafort, TX 67064",48112.6,8038.69,3,213,Deploy Web-Enabled Methodologies,Delayed
+158,Timothy Craig,HR,Intern,bduke@example.org,(252)491-0645x5375,"987 Joshua View Suite 664, Hermantown, ND 46349",57224.69,5029.6,3,100,Streamline Next-Generation Content,Ongoing
+159,Debbie Lopez,Marketing,Intern,carl98@example.net,(870)555-6854x52891,"013 Kevin Center, West Troystad, CA 09564",109936.85,8050.91,1,126,Synergize Integrated Portals,Ongoing
+160,Cassandra Gray,HR,Analyst,robertzuniga@example.org,(762)636-3593x64160,"1443 Joshua Garden Suite 981, Danielton, NJ 76366",87862.42,5653.16,1,220,Envisioneer World-Class Architectures,Delayed
+161,Cynthia Simon,Finance,Analyst,leonthomas@example.org,+1-864-692-7197x53117,"83728 Wilkins Village Apt. 415, Johnsonborough, MH 22453",105223.6,7466.32,5,205,Synergize Out-Of-The-Box Portals,Delayed
+162,Jillian Smith,HR,Manager,danielkrueger@example.org,001-286-900-1082,"Unit 5475 Box 1996, DPO AA 70525",56495.73,7541.92,1,246,Expedite E-Business Roi,Completed
+163,Felicia Jacobson,Marketing,Manager,wilsonkimberly@example.com,669-452-5956x405,"33741 Ramirez Stream, South Pamelaside, MA 99676",79317.81,3429.8,1,166,Benchmark Virtual Architectures,Completed
+164,Darryl Wright,IT,Developer,jacksondiana@example.org,+1-423-948-9761x9402,"36701 Wright Isle, Morganton, IN 20962",105961.01,6828.77,5,197,Expedite E-Business Roi,Completed
+165,Juan Shaw,Marketing,Analyst,harrisheather@example.org,959.433.4632x205,"335 Ford Well, Amymouth, AK 78188",52001.75,5732.05,1,151,Envisioneer World-Class Architectures,Delayed
+166,Rodney Richardson,Marketing,Intern,xweeks@example.com,(552)669-5164,"642 Gordon Springs, Johnsonberg, VA 94294",91780.44,4913.19,5,223,Scale Clicks-And-Mortar Technologies,Delayed
+167,Tanya Perez,Marketing,Developer,diane46@example.net,352-796-9981x005,"2513 Burgess Lake Apt. 592, Melissaburgh, WI 55572",91366.23,1725.22,2,100,Expedite E-Business Roi,Completed
+168,Nicole Brandt,HR,Manager,angel49@example.net,+1-574-221-1135x35713,"6019 Crawford Highway, Jasminetown, PR 34602",67871.39,4787.62,3,201,Benchmark Virtual Architectures,Completed
+169,Christy Long,HR,Developer,meghan53@example.net,575.304.7873,"765 Richard Radial Apt. 221, Perkinsmouth, VT 05542",88579.93,3527.48,5,232,Benchmark Virtual Architectures,Completed
+170,Timothy Miller,HR,Analyst,greenchristine@example.org,813.718.9038x581,"2170 Delacruz Route Suite 290, Port Sherryville, MP 85321",98949.1,8512.55,1,210,Deploy Web-Enabled Methodologies,Delayed
+171,Michael Church,Marketing,Intern,jonathan28@example.com,6875170618,"5632 Alex Island Apt. 812, Lake Michaelhaven, MD 36813",58414.23,4348.94,2,178,Synergize Integrated Portals,Ongoing
+172,Felicia Moore,Finance,Manager,john65@example.net,580.766.9791,"6125 Guerra Loop, Sydneyview, IA 49312",95395.29,6205.1,5,117,Synergize Integrated Portals,Ongoing
+173,Thomas Garcia,Finance,Intern,andrewarren@example.com,883-777-3317,"933 Morgan Crossroad Apt. 087, Pittmanport, UT 15202",105827.15,3594.73,2,181,Expedite E-Business Roi,Completed
+174,Cody Moreno,Finance,Intern,davidbonilla@example.net,(615)241-6044x26481,"78240 Amber Square, Lake Anthony, AR 84578",43941.28,5489.89,5,232,Scale Clicks-And-Mortar Technologies,Delayed
+175,Henry Stewart,IT,Intern,jimmyhoward@example.com,646.375.9344x7924,"68022 Winters Falls, New Brittneybury, OH 10698",94694.54,2651.19,2,160,Deploy Web-Enabled Methodologies,Delayed
+176,Lisa Combs,Marketing,Developer,rblack@example.org,(856)438-4892x9503,"556 Ferguson Fall, Matthewsbury, NH 52696",66555.58,2765.99,5,220,Streamline Next-Generation Content,Ongoing
+177,Ronald Lewis,HR,Analyst,shermankatie@example.net,979.300.5043,"1003 James Square Apt. 418, Rubiomouth, AZ 82378",46773.63,2114.5,3,137,Synergize Integrated Portals,Ongoing
+178,Keith Wright,IT,Intern,valdezerica@example.org,001-663-595-2287,"2020 Carson Highway Apt. 801, Gonzaleschester, AZ 74800",77850.27,5688.98,2,158,Synergize Integrated Portals,Ongoing
+179,Thomas Lee,HR,Analyst,brooke08@example.net,001-815-413-8260x46788,"165 Dawson Track Apt. 165, Johnsontown, AS 67428",109858.02,5074.53,3,211,Scale Clicks-And-Mortar Technologies,Delayed
+180,Kyle Bentley,IT,Analyst,andersonmichelle@example.net,953-524-1665,"813 Morgan Square Apt. 787, Leslieland, AK 36997",91724.87,3703.93,1,239,Envisioneer World-Class Architectures,Delayed
+181,Kevin Spencer,HR,Developer,qroberts@example.net,001-301-246-6772x81211,"76455 Baker Squares Suite 351, West Brian, MO 92601",104318.24,3652.71,1,163,Streamline Next-Generation Content,Ongoing
+182,Ronald Powell,Marketing,Intern,sfitzgerald@example.org,+1-856-607-2741x4709,"841 Lisa Park, Nathanmouth, NH 33677",60535.54,9692.54,2,230,Synergize Out-Of-The-Box Portals,Delayed
+183,Amber Williams,HR,Manager,swansonbrittney@example.org,703.703.3044,"USNS Phillips, FPO AP 55228",95621.45,1216.5,4,243,Envisioneer World-Class Architectures,Delayed
+184,Paige Weaver,Marketing,Analyst,whiteheadnoah@example.com,(635)438-9949,"19463 Smith Summit, Longfort, AZ 40148",72385.94,7655.77,1,247,Benchmark Virtual Architectures,Completed
+185,Jesse Powell,HR,Analyst,hernandezcrystal@example.net,(222)964-5937x034,"765 Deborah Ports, Ryanside, PA 82815",107908.44,7769.15,3,214,Envisioneer World-Class Architectures,Delayed
+186,Lisa Wiggins,IT,Analyst,vbrown@example.org,201-381-4595,"760 White Mission Apt. 596, West Davidmouth, MT 09212",51520.67,2093.76,2,237,Expedite E-Business Roi,Completed
+187,Christopher Butler,Marketing,Intern,douglassanchez@example.net,779-693-6121,"62366 Melissa Track, South Rickyton, VT 42164",51219.87,1041.35,1,104,Streamline Next-Generation Content,Ongoing
+188,Melanie Cunningham,HR,Developer,angela51@example.com,225.719.1678x901,"62933 Davis Rue, Colleenland, ME 67350",59279.51,2226.43,3,161,Expedite E-Business Roi,Completed
+189,Jacqueline Reid,Finance,Intern,meyerjohn@example.com,+1-523-564-4160x19332,"1336 Michelle Canyon Apt. 646, Morrismouth, VI 19240",69504.57,4779.16,4,131,Expedite E-Business Roi,Completed
+190,James Campbell,IT,Intern,megan26@example.com,+1-710-589-2562x180,"401 Gregory Inlet, Leebury, ME 78252",92403.92,1737.98,2,108,Scale Clicks-And-Mortar Technologies,Delayed
+191,Benjamin Martin,Finance,Developer,charles21@example.com,8053947612,"8271 Paige Walk Apt. 540, North Kristintown, MA 53493",52479.51,9709.57,5,210,Deploy Web-Enabled Methodologies,Delayed
+192,Lindsay Welch,IT,Developer,campbelljeremy@example.org,001-245-322-6394x980,"107 Walton Oval Suite 505, Yangmouth, VA 05509",56578.79,6851.45,5,239,Mesh Robust Vortals,Delayed
+193,Diana King,Finance,Manager,iwilliams@example.com,330-680-7513,"194 Isabella Throughway Apt. 042, Brandymouth, MS 64537",114182.32,6342.54,3,124,Re-Intermediate Transparent Markets,Ongoing
+194,Margaret Cole,IT,Intern,tpeters@example.com,(682)377-9102x825,"488 Amanda Pines Apt. 350, East Jessica, AK 42889",65067.85,5843.03,2,242,Scale Clicks-And-Mortar Technologies,Delayed
+195,Heather Miller,Finance,Manager,shelly99@example.org,001-651-240-4050x4755,"00232 Susan Brooks, Scottport, OR 28201",90471.32,5440.99,2,110,Expedite E-Business Roi,Completed
+196,Kathy Rowe,Marketing,Manager,nicholasbeck@example.net,+1-831-643-3165x1410,"93425 Angela Bridge Apt. 589, North Rebecca, AK 20051",51329.7,7036.66,4,223,Scale Clicks-And-Mortar Technologies,Delayed
+197,Judith Kirby,Marketing,Developer,eric69@example.org,(422)340-5413,"0208 Walker Views Suite 907, Amandamouth, IA 41509",82053.39,3164.29,4,136,Mesh Robust Vortals,Delayed
+198,Lauren Evans,Finance,Developer,craigtyler@example.net,879-641-4126,"9305 Salas Station Apt. 141, Burnsside, NM 84050",48136.05,4010.89,2,224,Synergize Out-Of-The-Box Portals,Delayed
+199,Devin Patel,IT,Developer,dsmith@example.com,820.540.7128x108,"7183 Audrey Lock Apt. 449, Port Jenniferborough, GU 14320",92839.98,1248.39,3,160,Synergize Out-Of-The-Box Portals,Delayed
+200,Jeremy Duncan,HR,Analyst,trevinochelsea@example.net,(709)708-7259x00700,"39254 James Rest Apt. 720, Fordberg, HI 07246",113524.23,6563.36,5,197,Mesh Robust Vortals,Delayed
+201,Samantha Walker,IT,Intern,brianwilliams@example.com,3859208602,"2392 Vincent Mill, Port Jane, RI 56216",68469.3,9866.3,3,231,Benchmark Virtual Architectures,Completed
+202,Christopher Burch,IT,Intern,boydjamie@example.com,+1-390-933-0222,"214 White Flat Apt. 243, West Matthew, IN 17712",52094.32,1084.51,4,107,Mesh Robust Vortals,Delayed
+203,Lori Schneider,Marketing,Developer,zhawkins@example.com,001-913-774-2555x3281,"401 Robles Brooks Suite 058, Traceybury, UT 22084",68500.18,2107.29,3,192,Synergize Out-Of-The-Box Portals,Delayed
+204,Jennifer Dalton,Marketing,Manager,bennettvalerie@example.org,(932)516-3256,"92079 Bryan Union, New Karenville, FM 42118",111223.7,1205.73,1,155,Envisioneer World-Class Architectures,Delayed
+205,Lawrence Graham,IT,Intern,shawrachel@example.org,(613)940-9755,"0600 Sanchez Garden, Port Anntown, MS 61011",88467.78,9923.87,3,176,Benchmark Virtual Architectures,Completed
+206,Frank Bennett MD,Finance,Analyst,omurray@example.org,7945120984,"63720 Roth Ways, Scotthaven, NM 38673",104679.67,6864.37,4,230,Benchmark Virtual Architectures,Completed
+207,Jessica Barrett,Finance,Intern,qunderwood@example.org,980.860.9103,"9601 Joseph Cliffs, Colleentown, ID 98127",59432.67,4811.47,2,202,Synergize Integrated Portals,Ongoing
+208,Richard Riley,HR,Analyst,vwilson@example.com,391.911.3980x339,"49296 Jackson Isle Apt. 012, East Cindybury, TX 03435",107675.67,1378.59,1,106,Synergize Out-Of-The-Box Portals,Delayed
+209,David Lane,HR,Intern,waltermiller@example.com,524.750.2785x704,"918 Martin Landing Apt. 151, Lopezmouth, GA 69427",106252.26,8162.65,4,238,Expedite E-Business Roi,Completed
+210,Kimberly Gates,Finance,Intern,jjackson@example.com,5256791211,"8653 Cervantes Isle, Macdonaldport, GA 27004",68777.3,7129.73,4,206,Synergize Integrated Portals,Ongoing
+211,Patrick Hall,IT,Developer,shawna11@example.org,+1-648-353-9043x45349,"028 Small Plains Apt. 289, East Joshua, LA 54806",53012.29,7644.75,2,227,Benchmark Virtual Architectures,Completed
+212,Deanna Green,Marketing,Analyst,cherylcurry@example.org,(998)247-4848,"398 Amanda Point Apt. 005, North Charlestown, MT 30608",65140.49,1578.64,3,247,Expedite E-Business Roi,Completed
+213,Douglas Brown,Marketing,Analyst,bartlettjason@example.org,001-253-255-0445x196,"351 Ward Stravenue Apt. 205, Petersontown, DE 45398",72367.81,1547.8,2,218,Expedite E-Business Roi,Completed
+214,Tara Boyer,Finance,Developer,jeffery14@example.org,677.435.0563x270,"128 Cory Parks Suite 876, Fernandoburgh, DC 77617",118072.54,8974.09,3,192,Envisioneer World-Class Architectures,Delayed
+215,Jamie Durham,Finance,Manager,michael39@example.net,984.352.9871x40427,"454 Kenneth Throughway Suite 625, Michaelshire, MD 05534",54742.1,3474.07,4,140,Mesh Robust Vortals,Delayed
+216,Alice Flores,Finance,Analyst,oduncan@example.org,001-603-320-7101x801,"115 Jackson Parks Apt. 121, North Peter, CO 18444",66170.48,8775.83,1,103,Re-Intermediate Transparent Markets,Ongoing
+217,Stacy Allen,HR,Manager,ocook@example.net,622-651-7915x0214,"Unit 5753 Box 5190, DPO AA 60152",42790.82,6003.08,2,168,Scale Clicks-And-Mortar Technologies,Delayed
+218,Stephanie Velasquez,IT,Manager,pfranklin@example.com,(276)844-7446,"579 Jacob Key Apt. 172, Hawkinsmouth, NJ 71589",45665.52,1036.47,4,246,Scale Clicks-And-Mortar Technologies,Delayed
+219,Lance Kaiser,Marketing,Analyst,marissathompson@example.net,(787)311-8278,"73219 Mary Ports, West Bethanyhaven, MP 91616",107607.31,4971.23,5,171,Re-Intermediate Transparent Markets,Ongoing
+220,Mrs. Stephanie Brandt,IT,Intern,hthomas@example.com,954-396-9285x92662,"470 Hill Ridge, Castrotown, OK 90249",90612.78,7527.09,5,145,Synergize Integrated Portals,Ongoing
+221,Sarah Johns,IT,Analyst,gonzalezbrian@example.net,295.417.5708,"14667 Finley Ramp Suite 168, New Jennifer, MH 90551",70277.08,5372.67,2,237,Benchmark Virtual Architectures,Completed

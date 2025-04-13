@@ -1,0 +1,10 @@
+<h1>Tasks List</h1>
+<a href="/tasks/add">Assign New Task</a>
+<ul>
+{% for task in tasks %}
+  <li>
+    <b>{{ task.title }}</b> ({{ task.status }}) — {{ task.employee_name }}
+    <a href="/tasks/delete/{{ task.id }}">[Delete]</a>
+  </li>
+{% endfor %}
+</ul>
