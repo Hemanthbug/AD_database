@@ -1,5 +1,6 @@
 import mysql.connector
 
+# Function to connect to the MySQL database
 def connect_db():
     return mysql.connector.connect(
         host="127.0.0.1",
@@ -9,6 +10,7 @@ def connect_db():
         port=3306
     )
 
+# Function to get employees with project information
 def get_employees_with_project():
     db = connect_db()
     cursor = db.cursor(dictionary=True)
@@ -34,39 +36,7 @@ def get_employees_with_project():
     db.close()
     return employees
 
-def get_projects():
-    db = connect_db()
-    cursor = db.cursor(dictionary=True)
-    cursor.execute("SELECT * FROM Projects")
-    result = cursor.fetchall()
-    db.close()
-    return result
-
-def get_tasks():
-    db = connect_db()
-    cursor = db.cursor(dictionary=True)
-    cursor.execute("""
-        SELECT t.*, e.name AS employee_name
-        FROM Tasks t
-        JOIN Employees e ON t.employee_id = e.id
-    """)
-    result = cursor.fetchall()
-    db.close()
-    return result
-
-def get_attendance():
-    db = connect_db()
-    cursor = db.cursor(dictionary=True)
-    cursor.execute("""
-        SELECT a.*, e.name AS employee_name
-        FROM Attendance a
-        JOIN Employees e ON a.employee_id = e.id
-        ORDER BY date DESC
-    """)
-    result = cursor.fetchall()
-    db.close()
-    return result
-
+# Function to get details of a specific employee
 def get_employee(emp_id):
     db = connect_db()
     cursor = db.cursor(dictionary=True)
@@ -75,6 +45,7 @@ def get_employee(emp_id):
     db.close()
     return result
 
+# Function to add a new employee
 def add_employee(data):
     db = connect_db()
     cursor = db.cursor()
@@ -98,14 +69,17 @@ def update_employee(emp_id, data):
             salary=%s, bonus=%s, performance_rating=%s, number_of_working_days=%s, current_project_id=%s
         WHERE id=%s
     """, (
-        data['name'], data['department'], data['role'], data['email'], data['phone'],
-        data['address'], data['salary'], data['bonus'],
-        data['performance_rating'], data['number_of_working_days'], data['current_project_id'],
+        data.get('name', ''), data.get('department', ''), data.get('role', ''),
+        data.get('email', ''), data.get('phone', ''), data.get('address', ''),
+        data.get('salary', ''), data.get('bonus', ''), data.get('performance_rating', ''),
+        data.get('number_of_working_days', ''), data.get('current_project_id', ''),
         emp_id
     ))
     db.commit()
     db.close()
 
+
+# Function to delete an employee from the database
 def delete_employee(emp_id):
     db = connect_db()
     cursor = db.cursor()
@@ -113,7 +87,7 @@ def delete_employee(emp_id):
     db.commit()
     db.close()
 
-
+# Function to get leave requests
 def get_leave_requests():
     db = connect_db()
     cursor = db.cursor(dictionary=True)
@@ -125,5 +99,40 @@ def get_leave_requests():
     """)
     result = cursor.fetchall()
     db.close()
+    return result
 
+# Function to get all projects
+def get_projects():
+    db = connect_db()
+    cursor = db.cursor(dictionary=True)
+    cursor.execute("SELECT * FROM Projects")
+    result = cursor.fetchall()
+    db.close()
+    return result
+
+# Function to get all tasks
+def get_tasks():
+    db = connect_db()
+    cursor = db.cursor(dictionary=True)
+    cursor.execute("""
+        SELECT t.*, e.name AS employee_name
+        FROM Tasks t
+        JOIN Employees e ON t.employee_id = e.id
+    """)
+    result = cursor.fetchall()
+    db.close()
+    return result
+
+# Function to get attendance data
+def get_attendance():
+    db = connect_db()
+    cursor = db.cursor(dictionary=True)
+    cursor.execute("""
+        SELECT a.*, e.name AS employee_name
+        FROM Attendance a
+        JOIN Employees e ON a.employee_id = e.id
+        ORDER BY date DESC
+    """)
+    result = cursor.fetchall()
+    db.close()
     return result
