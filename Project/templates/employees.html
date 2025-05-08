@@ -66,7 +66,7 @@
     <a href="/employees/add" class="btn btn-success me-2">Add Employee</a>
     <a href="/employees/edit" class="btn btn-warning me-2">Edit Employee</a>
     <!-- Delete Employee Button -->
-    <button class="btn btn-danger" id="deleteButton">Delete Employee</button>
+    <button type="button" class="btn btn-danger me-2" onclick="openDeleteModal()">Delete Employee</button>
 </div>
     <!-- Display Employee Details if Found -->
     {% if employee %}
@@ -160,8 +160,8 @@
                     <td>${{ emp.bonus }}</td>
                     <td>{{ emp.performance_rating }}/5</td>
                     <td>{{ emp.number_of_working_days }}</td>
-                    <td>{{ emp.project_name or 'N/A' }}</td>
-                    <td>{{ emp.project_status or 'N/A' }}</td>
+                    <td>{{ emp.project_name  }}</td>
+                    <td>{{ emp.project_status  }}</td>
                     <td>
                         <!-- Edit Button -->
                         <a href="/employees/edit/{{ emp.id }}" class="btn btn-sm btn-primary me-2">Edit</a>
@@ -176,6 +176,33 @@
         </table>
     </div>
 </div>
+
+
+<div class="container mt-4">
+    <h3>Machine Learning Model</h3>
+    <div class="text-center">
+        <!-- Description for Salary Distribution -->
+        <h4>Salary Distribution</h4>
+        <p>This chart illustrates how employee salaries are distributed across the organization. By examining the spread of salaries, you can identify if there are salary gaps or outliers, ensuring fairness and equity in pay practices.</p>
+        <img src="{{ url_for('static', filename='images/salary_distribution.png') }}" alt="Salary Distribution" class="img-fluid mb-3">
+
+        <!-- Description for Performance Rating Distribution -->
+        <h4>Performance Rating Distribution</h4>
+        <p>This bar chart shows how performance ratings are distributed across employees, helping to assess overall employee performance trends. It ensures that performance reviews are consistent and fair across the organization.</p>
+        <img src="{{ url_for('static', filename='images/performance_rating_distribution.png') }}" alt="Performance Rating Distribution" class="img-fluid mb-3">
+
+        <!-- Description for Bonus vs Salary -->
+        <h4>Bonus vs Salary</h4>
+        <p>This scatter plot visualizes the relationship between employee bonuses and their salaries. It helps evaluate if higher bonuses are given to higher-paid employees, ensuring fairness in compensation policies.</p>
+        <img src="{{ url_for('static', filename='images/bonus_vs_salary.png') }}" alt="Bonus vs Salary" class="img-fluid mb-3">
+
+        <!-- Description for Predicted vs Actual Salary -->
+        <h4>Predicted vs Actual Salary</h4>
+        <p>This chart compares predicted salary values (based on a machine learning model) with actual salaries. It helps evaluate the accuracy of compensation models and ensures that predicted compensation strategies align with actual salary distributions.</p>
+        <img src="{{ url_for('static', filename='images/predicted_vs_actual_salary.png') }}" alt="Predicted vs Actual Salary" class="img-fluid mb-3">
+    </div>
+</div>
+
 
 <script>
     // Modal handling

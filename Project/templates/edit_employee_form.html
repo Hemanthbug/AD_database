@@ -54,6 +54,7 @@
                 <label>Project Status</label>
                 <input type="text" class="form-control" name="project_status" value="{{ employee.project_status if employee else '' }}">
             </div>
+           
         </div>
         <button type="submit" class="btn btn-primary">{{ 'Update' if employee else 'Add' }}</button>
         <a href="/employees" class="btn btn-secondary">Cancel</a>
